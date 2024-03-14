@@ -1,9 +1,13 @@
-# realtime-chat-app
-Realtime chat app using socket.io and vanilla JavaScript
+# ChatCord App
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
+[![Run on Repl.it](https://repl.it/badge/github/bradtraversy/chatcord)](https://repl.it/github/bradtraversy/chatcord)
+## Usage
+```
+npm install
+npm run dev
 
-#### Demo: https://realtime-gyan-chat-app.herokuapp.com/
+Go to localhost:3000
+```
 
-## Installation 
-After download or clone run `npm install` to install all the dependancies.
-
-🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+## Notes
+The *_html_css* folder is just a starter template to follow along with the tutorial at https://www.youtube.com/watch?v=jD7FnbI76Hg&t=1339s. It is not part of the app
